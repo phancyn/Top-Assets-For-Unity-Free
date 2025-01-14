@@ -2,6 +2,7 @@
 <b>Assets-For-Unity-Free</b>
 </p>
 
+<a href="https://www.upload.ee/download/17629026/1e809509a024200d359f/Sword_slashes_PRO_v2.2.0.unitypackage">Sword slashes PRO v2.2.0</a>
 
 <a href="https://drive.usercontent.google.com/download?id=1ur8fGEXCyLFkypvggV9bP4aiFz2HBiat&export=download&authuser=0">SCI FI CHARACTERS MEGA PACK VOL 2</a>
 
